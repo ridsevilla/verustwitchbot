@@ -1,0 +1,10 @@
+{
+  "verusdRpcIp" : "REPLACE WITH VERUSD RPC IP",
+  "verusdRpcPort" : "REPLACE WITH VERUSD RPC PORT",
+  "verusdRpcUser" : "REPLACE WITH VERUSD RPC USER",
+  "verusdRpcPass" : "REPLACE WITH VERUSD RPC PASSWORD",
+  "verusdSenderAddress" : "REPLACE WITH VERUSD SENDER ADDRESS",
+  "twitchChannel": "REPLACE WITH TWITCH CHANNEL",
+  "twitchUsername": "REPLACE WITH BOT'S TWITCH USERNAME",
+  "twitchOauthToken": "REPLACE WITH BOT'S TWITCH OAUTH TOKEN"
+}
